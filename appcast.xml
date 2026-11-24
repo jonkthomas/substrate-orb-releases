@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Substrate Orb</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 23 Nov 2026 20:40:52 -0500</pubDate>
+            <sparkle:version>2026112410</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jonkthomas/substrate-orb-releases/releases/download/v0.3.0/Orb-0.3.0-2026112410.zip" length="594073977" type="application/octet-stream" sparkle:edSignature="nzLy+7zp/Q4Q7+1ixehugoMqL3X5Jg/iL0zdOSCKowWrBnw87x4QIFJYgJYtT58VRDgCuO9CGvY+yO0MEOmkCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: DQqNRH0/sYgS16sVfZs4qVznkfkvH+VocWXEMWLiYM8bSqXU2+s0CGYX/nv4nZY72lqwFpRw6t9fQIkBcb/HCA==
+length: 1158
+-->
